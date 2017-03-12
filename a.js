@@ -5,8 +5,8 @@ var Jet = function(color, size) {
 }
 console.log("heelo");
 
-
-var dfgdfgf = "gdrgdr"
+var sfdsf = df;
+var dfgdfddfgf = "gdrdfdgdgdfgdr"
 
 
 var hello = "hi";
