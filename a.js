@@ -8,6 +8,8 @@ console.log("heelo");
 var sfdsf = df;
 var dfgdfddfgf = "gdrdfdgdgdfgdr"
 
+var dfgdfgf = "dfdsfgdrgdr";
+
 
 var hello = "hi";
 
