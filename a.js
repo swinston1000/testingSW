@@ -4,4 +4,6 @@ var Jet = function(color, size) {
 
 }
 
+var hello = "hi";
+
 module.exports = Jet;
